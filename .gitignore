@@ -15,7 +15,7 @@
 **/.idea/**/sqlDataSources.xml
 **/.idea/**/dynamic.xml
 
-Mcc/.idea/**
+XamarinGrpc/.idea/**
 
 # Rider
 # Rider auto-generates .iml files, and contentModel.xml
