@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinGrpc.Common", "XamarinGrpc.Common\XamarinGrpc.Common.csproj", "{D862F914-F18D-47DE-95A8-35219B04382A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinGrpc.Mobile.Android", "XamarinGrpc.Mobile\XamarinGrpc.Mobile.Android\XamarinGrpc.Mobile.Android.csproj", "{E1B2A7EB-1A49-4729-A656-048E79D8691B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinGrpc.Mobile", "XamarinGrpc.Mobile\XamarinGrpc.Mobile\XamarinGrpc.Mobile.csproj", "{1C5F0AE6-E04C-4914-A624-F8E52BB72F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D862F914-F18D-47DE-95A8-35219B04382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D862F914-F18D-47DE-95A8-35219B04382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D862F914-F18D-47DE-95A8-35219B04382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D862F914-F18D-47DE-95A8-35219B04382A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B2A7EB-1A49-4729-A656-048E79D8691B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C5F0AE6-E04C-4914-A624-F8E52BB72F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F0AE6-E04C-4914-A624-F8E52BB72F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F0AE6-E04C-4914-A624-F8E52BB72F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F0AE6-E04C-4914-A624-F8E52BB72F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D04C976-80EA-4548-B909-27DD6F14C10D}
+	EndGlobalSection
+EndGlobal
